@@ -41,7 +41,7 @@ public class njobe12 {
 		driver.findElement(By.id("continue")).click();
 		Thread.sleep(2000);
 		driver.quit();
-		System.out.println("Test for GitHub nr. 8912346757890612345" + "We couldnt find an account with that email address");
+		System.out.println("One more test for Giiiiiiiiiiiit" + "We couldnt find an account with that email address");
 		
 		
 	}
