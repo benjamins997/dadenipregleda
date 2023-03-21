@@ -41,7 +41,7 @@ public class njobe12 {
 		driver.findElement(By.id("continue")).click();
 		Thread.sleep(2000);
 		driver.quit();
-		System.out.println("Test case for Amazon." + "We couldnt find an account with that email address");
+		System.out.println("Currently in learning faze." + "We couldnt find an account with that email address");
 		
 		
 	}
