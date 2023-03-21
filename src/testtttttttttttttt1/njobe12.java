@@ -41,7 +41,7 @@ public class njobe12 {
 		driver.findElement(By.id("continue")).click();
 		Thread.sleep(2000);
 		driver.quit();
-		System.out.println("There was a detectable problem\r\n" + "We couldnt found an account with that email address");
+		System.out.println("There was a undetectable problem\r\n" + "We couldnt find an account with that email address");
 		
 		
 	}
